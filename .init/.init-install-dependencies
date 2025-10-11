@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/silent-bidder-platform-147989/auction_frontend"
+}
