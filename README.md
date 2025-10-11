@@ -1,1 +1,3 @@
-# silent-bidder-platform-147989
+# Project Repository
+
+This is the initial README file for the project.
